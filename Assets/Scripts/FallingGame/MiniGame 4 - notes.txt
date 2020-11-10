@@ -1,0 +1,21 @@
+MiniGame 4 - notes
+----------------
+
+Goal : Cetak skor sebanyak banyaknya
+Rules :
+- Player hanya dapat menggerakkan Tas (contoh) secara horizontal
+- Player dapat mengganti warna tas yang ada dengan menekan tombol Ganti
+- Terdapat 3 warna dalam Tas tersebut (ex : merah, kuning, hijau)
+- Player mendapat skor jika Mendapatkan Sampah yang sesuai dengan warna Tas yang ada
+- Diberikan batas waktu selama 2 menit untuk mendapatkan skor
+- Game akan berhenti setelah waktu habis
+
+
+masukan :
+- setiap ngambil yang bener, nambahnya bukan 1, tapi sesuai dia dapet benernya berapa
+- kalo salah ngambil, ulang lagi ke 1
+- buat ngubah bentuk objeknya, pake double tap
+
+
+future update :
+- power up (force player buat ngubah objeknya)
